@@ -12,10 +12,12 @@ public class leadsteps extends basesteps{
 
     @When("user click on new lead link")
     public void user_click_on_new_lead_link() {
-     hp.clickNewLead();
+
+        hp.clickNewLead();
     }
     @When("user enters lastname and company and click on save button")
     public void user_enters_lastname_and_company_and_click_on_save_button() {
+
         ldp.createlead("Modi","BJP");
     }
     @Then("lead should be created successfully")

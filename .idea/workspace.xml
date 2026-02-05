@@ -6,37 +6,14 @@
   <component name="ChangeListManager">
     <list default="true" id="5513ef88-366c-4dc4-a977-ae082407d4a8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/pages/HomePage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/pages/LeadPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/pages/LoginPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/reports/ExtentReport_26102025041242.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/reports/ExtentReport_26102025041958.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/reports/ExtentReport_26102025043313.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/reports/ExtentReport_26102025043437.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/reports/ExtentReport_26102025043907.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/reports/screenshot/26102025043439.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/reports/screenshot/26102025043440.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/reports/screenshot/26102025043442.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/reports/screenshot/26102025043446.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/reports/screenshot/26102025043449.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/reports/screenshot/26102025043450.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/reports/screenshot/26102025043909.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/reports/screenshot/26102025043910.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/reports/screenshot/26102025043912.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/reports/screenshot/26102025043915.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/reports/screenshot/26102025043916.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/reports/screenshot/26102025043919.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/reports/screenshot/26102025043940.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vtiger/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/pages/LeadPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vtiger/pages/LeadPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/runner/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vtiger/runner/TestRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/stepsdefinitions/baseSteps.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/stepsdefinitions/leadsteps.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/stepsdefinitions/loginsteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vtiger/stepsdefinitions/loginsteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/utils/CommonMethods.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/Config.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/Data/testdata.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/Features/Leads.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/Features/Login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/Features/Login.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/stepsdefinitions/basesteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vtiger/stepsdefinitions/basesteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/stepsdefinitions/leadsteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vtiger/stepsdefinitions/leadsteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/utilities/CommonMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vtiger/utilities/CommonMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-reports.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-reports.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/vtiger/runner/TestRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/vtiger/runner/TestRunner.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +28,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -59,12 +41,12 @@
     &quot;assignee&quot;: &quot;rajeshupadhyay66&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/rajeshupadhyay66/CucumberAug25.git&quot;,
-    &quot;accountId&quot;: &quot;f6484fa6-232a-4a2d-b578-4cd78fe2255a&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/tejas808/Cucumber01.git",
+    "accountId": "e34baa94-9ad3-4b4d-ac15-4636d4edde77"
   }
-}</component>
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/test/java/com/vtiger/stepsdefinitions/ApiStepDefinitions.java" root0="SKIP_INSPECTION" />
   </component>
@@ -87,30 +69,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Application.ActionsExamples.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AlertExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FileUpload_Robot.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FramesExamples.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HandlingDropdown.executor&quot;: &quot;Run&quot;,
-    &quot;Application.JavaScriptExamples.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;TestNG.TestRunner (1).executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.TestRunner.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Course/Selenium_Java/SeleniumNov25/Nov25Cucumber&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.ActionsExamples.executor": "Run",
+    "Application.AlertExample.executor": "Run",
+    "Application.FileUpload_Robot.executor": "Run",
+    "Application.FramesExamples.executor": "Run",
+    "Application.HandlingDropdown.executor": "Run",
+    "Application.JavaScriptExamples.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "TestNG.TestRunner (1).executor": "Run",
+    "TestNG.TestRunner.executor": "Run",
+    "git-widget-placeholder": "Rohan",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Course/Selenium_Java/SeleniumNov25/Nov25Cucumber",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "advanced.settings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Course\Selenium_Java\SeleniumAug25\Aug25Cucumber\src\test\java\com\vtiger\utils" />

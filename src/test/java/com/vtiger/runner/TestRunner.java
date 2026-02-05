@@ -11,7 +11,7 @@ import io.cucumber.testng.CucumberOptions;
         ,glue="com.vtiger.stepsdefinitions"
         ,dryRun = false
         ,plugin = {"pretty","html:target/cucumber-reports.html"}
-        ,tags = "@swati"
+        ,tags = "@Rohan"
         ,monochrome = false
 
 
