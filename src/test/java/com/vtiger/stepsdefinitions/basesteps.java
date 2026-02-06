@@ -1,5 +1,6 @@
 package com.vtiger.stepsdefinitions;
 
+import com.vtiger.pages.AccountPage;
 import com.vtiger.pages.HomePage;
 import com.vtiger.pages.LeadPage;
 import com.vtiger.pages.LoginPage;
@@ -14,6 +15,7 @@ public class basesteps {
     public static LoginPage lp;
     public static HomePage hp;
     public static LeadPage ldp;
+    public static AccountPage ap;
 
     public void LaunchApp()
     {
@@ -30,5 +32,7 @@ public class basesteps {
          lp = new LoginPage(driver);
          hp = new HomePage(driver);
          ldp = new LeadPage(driver);
+         ap=new AccountPage(driver);
+
     }
 }

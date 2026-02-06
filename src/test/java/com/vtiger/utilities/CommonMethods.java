@@ -20,8 +20,6 @@ public class CommonMethods {
     }
 
 
-
-
     public void setInput(WebElement elm, String value)
     {
         try

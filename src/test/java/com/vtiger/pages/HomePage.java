@@ -25,6 +25,9 @@ public class HomePage extends CommonMethods {
     @FindBy(linkText="New Lead")
     WebElement lnk_newlead;
 
+    @FindBy(linkText="New Account")
+    WebElement lnk_newaccount;
+
     @FindBy(linkText="Home")
     WebElement lnk_home;
 
@@ -33,12 +36,14 @@ public class HomePage extends CommonMethods {
 
     public void clickNewLead()
     {
+
         clickELement(lnk_newlead);
     }
 
     public void clickLogout()
     {
-         clickELement(lnk_logout);
+
+        clickELement(lnk_logout);
     }
 
     public void verifylogout()
@@ -49,7 +54,14 @@ public class HomePage extends CommonMethods {
 
     public void verifyhome()
     {
+
         ElementDisplay(lnk_home);
+    }
+
+    public void clickNewAccount()
+    {
+
+        clickELement(lnk_newaccount);
     }
 
 
