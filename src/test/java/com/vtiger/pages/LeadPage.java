@@ -51,16 +51,19 @@ public class LeadPage extends CommonMethods {
 
     public void setLastname(String lname)
     {
+
         setInput(tb_lastname,lname);
     }
 
     public void setCompany(String comp)
     {
+
         setInput(tb_company,comp);
     }
 
     public void clickSave()
     {
+
         clickELement(btn_save);
     }
 

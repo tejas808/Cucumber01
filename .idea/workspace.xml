@@ -6,6 +6,17 @@
   <component name="ChangeListManager">
     <list default="true" id="5513ef88-366c-4dc4-a977-ae082407d4a8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vtiger/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/pages/LeadPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vtiger/pages/LeadPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/runner/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vtiger/runner/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/stepsdefinitions/basesteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vtiger/stepsdefinitions/basesteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/stepsdefinitions/leadsteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vtiger/stepsdefinitions/leadsteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/utilities/CommonMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vtiger/utilities/CommonMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-reports.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-reports.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/vtiger/runner/TestRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/vtiger/runner/TestRunner.class" afterDir="false" />
+>>>>>>> Dev
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,12 +44,19 @@
     &quot;assignee&quot;: &quot;rajeshupadhyay66&quot;
   }
 }</component>
+<<<<<<< HEAD
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/tejas808/Cucumber01.git&quot;,
     &quot;accountId&quot;: &quot;7d443e61-4af9-4646-89a2-984a47b984fd&quot;
+=======
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/tejas808/Cucumber01.git",
+    "accountId": "e34baa94-9ad3-4b4d-ac15-4636d4edde77"
+>>>>>>> Dev
   }
-}</component>
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/test/java/com/vtiger/stepsdefinitions/ApiStepDefinitions.java" root0="SKIP_INSPECTION" />
   </component>
@@ -61,6 +79,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
@@ -83,8 +102,33 @@
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
+=======
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.ActionsExamples.executor": "Run",
+    "Application.AlertExample.executor": "Run",
+    "Application.FileUpload_Robot.executor": "Run",
+    "Application.FramesExamples.executor": "Run",
+    "Application.HandlingDropdown.executor": "Run",
+    "Application.JavaScriptExamples.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "TestNG.TestRunner (1).executor": "Run",
+    "TestNG.TestRunner.executor": "Run",
+    "git-widget-placeholder": "Rohan",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Course/Selenium_Java/SeleniumNov25/Nov25Cucumber",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "advanced.settings"
+>>>>>>> Dev
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Course\Selenium_Java\SeleniumAug25\Aug25Cucumber\src\test\java\com\vtiger\utils" />
